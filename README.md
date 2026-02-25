@@ -8,7 +8,8 @@ Sou professor apaixonado por Ciência de Dados, Desenvolvimento Python e Tecnolo
 
 ### 👨‍💻 Minha Jornada
 - 🎯 Especialista em **Python** e **Análise de Dados**
-- 🚫 Membro de **DCTA/EEC/EEAC/EEBMF**
+- 🚫 Ex-Membro de **EEMH/EEAC** em 2025
+- 🚫 Membro de **DCTA/EEJC/EEBMF**
 - 📚 Sempre aprendendo e compartilhando conhecimento
 - 🌉 Apaixonado por abrir caminhos para outros
 
