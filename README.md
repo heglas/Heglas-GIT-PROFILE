@@ -31,7 +31,7 @@ Sou professor apaixonado por Ciência de Dados, Desenvolvimento Python e Tecnolo
 
 ## 💻 Projetos em Destaque
 
-### 🤮 EEJC-2BT-PROJETO
+### 📋 EEJC-2BT-PROJETO
 **Projeto de aplicativo Python para cadastro e gerenciamento de biblioteca**
 - Desenvolvimento de sistema com interface de usuário
 - Gestão de dados com Python
