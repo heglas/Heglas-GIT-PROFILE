@@ -97,9 +97,17 @@ print(me)
 
 <div align="center">
 
-[![EEJC-2BT-PROJETO](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=EEJC-2BT-PROJETO&theme=tokyonight&hide_border=true)](https://github.com/heglas/EEJC-2BT-PROJETO)
-[![EEJC-2BT](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=EEJC-2BT&theme=tokyonight&hide_border=true)](https://github.com/heglas/EEJC-2BT)
-[![EEBFM-2A](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=EEBFM-2A&theme=tokyonight&hide_border=true)](https://github.com/heglas/EEBFM-2A)
+[![EEJC-3BT-2026](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=EEJC-3BT-2026&theme=tokyonight&hide_border=true)](https://github.com/heglas/EEJC-3BT-2026)
+[![EEJC-2DT-2026](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=EEJC-2DT-2026&theme=tokyonight&hide_border=true)](https://github.com/heglas/EEJC-2DT-2026)
+[![EEBFM-2A-2026](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=EEBFM-2A-2026&theme=tokyonight&hide_border=true)](https://github.com/heglas/EEBFM-2A-2026)
+[![EEBFM-3A-2026](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=EEBFM-3A-2026&theme=tokyonight&hide_border=true)](https://github.com/heglas/EEBFM-3A-2026)
+[![DCTA](https://github-readme-stats.vercel.app/api/pin/?username=heglas&repo=DCTA&theme=tokyonight&hide_border=true)](https://github.com/heglas/DCTA)
+
+</div>
+
+<div align="center">
+
+[![Ver todos os repositórios](https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heglas?tab=repositories)
 
 </div>
 
