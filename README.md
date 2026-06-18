@@ -32,7 +32,7 @@
 ## 👨‍💻 Sobre Mim
 
 ```python
-class HerglasOliveira:
+class HeglasOliveira:
     def __init__(self):
         self.nome       = "Heglas Oliveira"
         self.papel      = ["Professor", "Python Developer", "Data Science Enthusiast"]
@@ -44,7 +44,7 @@ class HerglasOliveira:
     def __str__(self):
         return "I will change the world, one code at a time. #neverGiveUp"
 
-me = HerglasOliveira()
+me = HeglasOliveira()
 print(me)
 ```
 
@@ -109,7 +109,7 @@ print(me)
 
 <div align="center">
 
-> *"A programação é como uma symphony — cada linha de código é uma nota que deve estar em perfeita harmonia com o resto."*
+> *"A programação é como uma sinfonia — cada linha de código é uma nota que deve estar em perfeita harmonia com o resto."*
 
 </div>
 
