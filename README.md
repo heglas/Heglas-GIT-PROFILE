@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Heglas%20Oliveira&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Professor%20%7C%20Python%20Developer%20%7C%20Data%20Science&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Heglas%20Oliveira&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Professor%20%7C%20Python%20Developer%20%7C%20Data%20Science&descAlignY=58&descAlign=50" width="100%" alt="Header Banner with name Heglas Oliveira"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=I+will+change+the+world%2C+one+code+at+a+time.;%23neverGiveUp+%F0%9F%9A%80;Python+%7C+Data+Science+%7C+Education;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
@@ -36,9 +36,9 @@ class HeglasOliveira:
     def __init__(self):
         self.nome       = "Heglas Oliveira"
         self.papel      = ["Professor", "Python Developer", "Data Science Enthusiast"]
-                self.linguagens   = ["Python", "SQL", "HTML", "JavaScript", "G-code"]
-                self.ferramentas  = ["Jupyter", "VS Code", "Git", "GitHub", "Selenium", "Flask"]
-                self.membro_de   = ["DCTA", "EE Prof. Joao Cruz", "EE Profa. Benedita Freire Macedo"]
+        self.linguagens   = ["Python", "SQL", "HTML", "JavaScript", "G-code"]
+        self.ferramentas  = ["Jupyter", "VS Code", "Git", "GitHub", "Selenium", "Flask"]
+        self.membro_de   = ["DCTA", "EE Prof. Joao Cruz", "EE Profa. Benedita Freire Macedo"]
         self.missao     = "Abrir caminhos para outros através da educação e tecnologia 🌉"
 
     def __str__(self):
@@ -130,6 +130,6 @@ print(me)
 
 **Deixe uma ⭐ se achar meus projetos interessantes!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
