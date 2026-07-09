@@ -36,13 +36,13 @@ class HeglasOliveira:
     def __init__(self):
         self.nome       = "Heglas Oliveira"
         self.papel      = ["Professor", "Python Developer", "Data Science Enthusiast"]
-        self.linguagens = ["Python", "G-code"]
-        self.ferramentas = ["Jupyter", "VS Code", "Git", "GitHub"]
-        self.membro_de  = ["DCTA", "EEJC", "EEBMF"]
+                self.linguagens   = ["Python", "SQL", "HTML", "JavaScript", "G-code"]
+                self.ferramentas  = ["Jupyter", "VS Code", "Git", "GitHub", "Selenium", "Flask"]
+                self.membro_de   = ["DCTA", "EE Prof. Joao Cruz", "EE Profa. Benedita Freire Macedo"]
         self.missao     = "Abrir caminhos para outros através da educação e tecnologia 🌉"
 
     def __str__(self):
-        return "I will change the world, one code at a time. #neverGiveUp"
+
 
 me = HeglasOliveira()
 print(me)
